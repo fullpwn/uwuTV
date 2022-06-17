@@ -7,8 +7,10 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://c.mjh.nz/101002210224/#EXTINF:-1 tvg-name="uwuTV Kids - Channel 3" group-title="Video",Channel 3 - uwuTV
 #EXTINF:-1 tvg-name="uwuTV- Channel 4" group-title="Video",Channel 4 - uwuTV
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8#EXTINF:-1 tvg-name="uwuTV - Channel 4" group-title="Video",Channel 4 - uwuTV
-#EXTINF:-1 tvg-name="uwuFM - Kiss Radio CZ - Channel 100" group-title="Audio",Kiss Radio CZ - Channel 100 - uwuFM
-https://stream.rcs.revma.com/asn0cmvb938uv#EXTINF:-1 tvg-name="uwuFM - Kiss Radio CZ - Channel 100" group-title="Audio",Kiss Radio CZ - Channel 100 - uwuFM
+#EXTINF:-1 tvg-name="uwuFM - ABC NewsRadio - Channel 100" group-title="Audio",ABC NewsRadio - Channel 100 - uwuFM
+https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/masterhq.m3u8#EXTINF:-1 tvg-name="uwuFM - ABC NewsRadio - Channel 100" group-title="Audio",ABC NewsRadio - Channel 100 - uwuFM
+#EXTINF:-1 tvg-name="uwuFM - Kiss Radio CZ - Channel 101" group-title="Audio",Kiss Radio CZ - Channel 101 - uwuFM
+https://stream.rcs.revma.com/asn0cmvb938uv#EXTINF:-1 tvg-name="uwuFM - Kiss Radio CZ - Channel 101" group-title="Audio",Kiss Radio CZ - Channel 101 - uwuFM
 
 
 
