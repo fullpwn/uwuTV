@@ -11,6 +11,8 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/masterhq.m3u8#EXTINF:-1 tvg-name="uwuFM - ABC NewsRadio - Channel 100" group-title="Audio",ABC NewsRadio - Channel 100 - uwuFM
 #EXTINF:-1 tvg-name="uwuFM - Kiss Radio CZ - Channel 101" group-title="Audio",Kiss Radio CZ - Channel 101 - uwuFM
 https://stream.rcs.revma.com/asn0cmvb938uv#EXTINF:-1 tvg-name="uwuFM - Kiss Radio CZ - Channel 101" group-title="Audio",Kiss Radio CZ - Channel 101 - uwuFM
+#EXTINF:-1 tvg-name="uwuFM - WJON IP - Channel 102" group-title="Audio",WJON IP - Channel 102 - uwuFM
+https://icecast.gwes-eas.network:8443/ERN-JON#EXTINF:-1 tvg-name="uwuFM - WJON IP - Channel 102" group-title="Audio",WJON IP - Channel 102 - uwuFM
 
 
 
